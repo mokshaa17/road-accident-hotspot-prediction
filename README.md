@@ -5,7 +5,7 @@ develop a predictive safety model capable of identifying road accident hotspots 
 a high degree of accuracy. By integrating historical accident data with various contextual features such as road infrastructure, traffic flow and weather conditions the
 model aims to uncover hidden patterns and relationships that can aid in predicting
 areas prone to accidents.
-The project’s scope revolves around developing a machine learning model for predicting road accident hotspots. The primary objective is to create a robust and efficient system capable of accurately identifying the road accident hotspots, thereby
+The project’s scope revolves around developing a machine learning model for predicting road accident hotspots. The primary objective is to create a robust and efficient system capable of accurately identifying the road accident hotspots, thereby
 enhancing potential risks. To achieve this, the project will leverage various tools and
 libraries, including Python, Scikit-learn, among others. Python will serve as the primary programming language due to its versatility and extensive support for machine
 learning tasks. Scikit-learn will be utilized for implementing traditional machine
