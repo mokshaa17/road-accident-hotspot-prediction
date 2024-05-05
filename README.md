@@ -23,3 +23,9 @@ of road accidents and promoting safer transportation systems.
 #### Daily Accident Detail: https://data.cityofchicago.org/api/views/85ca-t3if/rows.csv
 #### Vehicle Details: https://data.cityofchicago.org/api/views/68nd-jvt3/rows.csv
 #### People Details: https://data.cityofchicago.org/api/views/u6pd-qa9d/rows.csv
+
+#### MAJOR PROJECT BATCH-1
+###### KAMBHAM MOKSHAA (20UECS0445) (VTU14000)
+###### M SAI VAMSI (20UECS0551) (VTU17443)
+###### Under the guidance of
+###### Dr. S. SRIDEVI, M.E, Ph.D.,PROFESSOR
