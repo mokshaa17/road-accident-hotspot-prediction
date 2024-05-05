@@ -17,3 +17,12 @@ to extract relevant information from the raw data, which will then be used to tr
 evaluate machine learning models using the Random forest algorithm. Model performance will be assessed using various metrics such as accuracy, precision, recall,
 and F1 score, thereby contributing to the overarching goal of reducing the incidence
 of road accidents and promoting safer transportation systems.
+
+
+
+
+Data from the following files
+
+Daily Accident Detail: https://data.cityofchicago.org/api/views/85ca-t3if/rows.csv
+Vehicle Details: https://data.cityofchicago.org/api/views/68nd-jvt3/rows.csv
+People Details: https://data.cityofchicago.org/api/views/u6pd-qa9d/rows.csv
